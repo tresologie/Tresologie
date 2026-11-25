@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Tresor IRAKIZA
 
-<!--
-**tresologie/Tresologie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | Full-Stack Developer 🇧🇮
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about software development and building modern digital solutions.
+
+## 🚀 About Me
+
+- 💻 Software Developer
+- ☕ Java & Spring Boot Developer
+- ⚛️ React & TypeScript Developer
+- 📱 Kotlin & Android Developer
+- 🗄️ MySQL Database
+- 🐳 Docker & Linux
+- 🇧🇮 Based in Burundi
+
+## 🛠️ My Technologies
+
+- **Backend:** Java, Spring Boot, REST API
+- **Frontend:** React, TypeScript, JavaScript
+- **Mobile:** Kotlin, Android
+- **Database:** MySQL
+- **Tools:** Git, GitHub, Docker, Maven, Linux
+
+## 📌 Featured Projects
+
+### 🚗 OTRACO – Vehicle Technical Inspection
+Vehicle technical inspection management system.
+
+### 👥 AMS – Human Resource Management
+Human resource and employee attendance management system.
+
+## 🎯 My Goals
+
+- Build professional software applications.
+- Improve my software engineering skills.
+- Develop useful digital solutions.
+- Learn and explore new technologies.
+
+## 📫 Contact
+
+- GitHub: [@tresologie](https://github.com/tresologie)
+- Email: tresorira2022@gmail.com
+
+⭐ Thanks for visiting my profile!
